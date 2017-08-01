@@ -1,0 +1,28 @@
+#mainHeader {
+  margin: 50px auto;
+  text-align: center;
+}
+
+#directory {
+  /*display: flex;*/
+  /*flex-flow: row wrap;*/
+}
+
+.human {
+  margin: 20px 20px;
+  width: 150px;
+  float: left;
+}
+
+#humanTitle {
+  text-transform: uppercase;
+  border-width: 0px 0px 3px 0px;
+  border-style: solid;
+  border-color: grey;
+  text-align: center;
+}
+
+.thumbNail {
+  width: 72px;
+  height: 72px;
+}
